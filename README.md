@@ -4,29 +4,21 @@
 
 ![alt text](http://pdacontroles.com/wp-content/uploads/2018/06/Basic-Ubidots-PZEM-004.png "ESP-Ubidots")
 
-## Description
+## Description / Descripción
 
 In this opportunity we will collect tests with my new electric consumption meter PZEM-004T by Peacefair and Arduino IDE making integrations with some of the most known hardware platforms ESP8266, Arduino Nano, ESP32, Arduino UNO + Shield Ethernet W5100 and Python in Raspberry Pi.
 
 Contains 5 Folders:
 
-* PZEM_ArduinoNANOSoftSerial   :  Example Arduino Nano with Arduino IDE 
-* PZEM_ArduinoUNO-ETHSoftSerial:  Example Arduino UNO + Shield Ethernet W5100 with Arduino IDE
-* PZEM_ESP32HwSerial           :  Example ESP32 with Arduino IDE
-* PZEM_ESP8266HwSerial		   :  Example ESP8266 with Arduino IDE	
-* PZEM_Python                  :  Example Python for Computer or Raspberry Pi
-
-## Descripción
-
-En esta oportunidad recopilaremos pruebas con mi nuevo medidor de consumo eléctrico PZEM-004T de Peacefair y Arduino IDE realizando integraciones con algunas de las plataformas de hardware mas conocidas ESP8266, Arduino Nano,ESP32, Arduino UNO + Shield Ethernet W5100 y Python en Raspberry Pi.
+En esta oportunidad recopilaremos pruebas con mi nuevo medidor de consumo eléctrico PZEM-004T de Peacefair y Arduino IDE realizando integraciones con algunas de las plataformas de hardware mas conocidas ESP8266, Arduino Nano,ESP32, Arduino UNO + Shield Ethernet W5100 y Python en Raspberry Pi.
 
 Contiene 5 Carpetas:
 
-* PZEM_ArduinoNANOSoftSerial   :  Ejemplo Arduino Nano con Arduino IDE
-* PZEM_ArduinoUNO-ETHSoftSerial:  Ejemplo Arduino UNO + Shield Ethernet W5100 con Arduino IDE
-* PZEM_ESP32HwSerial           :  Ejemplo ESP32 con Arduino IDE
-* PZEM_ESP8266HwSerial		   :  Ejemplo ESP8266 con Arduino IDE	
-* PZEM_Python                  :  Ejemplo Python para computadora o Raspberry Pi
+* **PZEM_ArduinoNANOSoftSerial**   :  Example Arduino Nano with Arduino IDE  
+* **PZEM_ArduinoUNO-ETHSoftSerial**:  Example Arduino UNO + Shield Ethernet W5100 with Arduino IDE
+* **PZEM_ESP32HwSerial**           :  Example ESP32 with Arduino IDE
+* **PZEM_ESP8266HwSerial**		   :  Example ESP8266 with Arduino IDE	
+* **ZEM_Python**                   :  Example Python for Computer or Raspberry Pi
 
 
 
@@ -59,8 +51,7 @@ Thanks [olehs](https://github.com/olehs)  for contributing
 * [Jumper Wires Female-Female / Cables puente Hembra-Hembra ](http://bit.ly/2L7HxOn) - Banggood
 
 
-
-## Mounting / Montajes
+# Mounting / Montajes
 
 ### PZEM-004t with ESP8266 12E NodeMCU
 

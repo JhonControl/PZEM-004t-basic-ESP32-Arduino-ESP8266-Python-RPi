@@ -4,21 +4,17 @@ Version 1.0   Date 26-06-2018   [PDAControl](http://pdacontrolen.com)
 
 ![alt text](http://pdacontroles.com/wp-content/uploads/2018/06/Basic-Ubidots-PZEM-004.png "ESP-Ubidots")
 
-## Description
+## Description / Descripción
 
 test Active power measurement or power consumption with Peacefair PZEM-004T Meter and Arduino Nano
 
 Contains 1 Files:
 
-* PZEM_ArduinoNANOSoftSerial   :  Example Arduino Nano with Arduino IDE 
-
-## Descripción
-
 Prueba de medición de potencia Activa o consumo eléctrico con Medidor PZEM-004T de Peacefair con Arduino Nano
 
 Contiene 1 Archivo:
 
-* PZEM_ArduinoNANOSoftSerial   :  Example Arduino Nano with Arduino IDE  
+* PZEM_ArduinoNANOSoftSerial.ino   :  Example Arduino Nano with Arduino IDE 
 
 
 ## Library / Librerias
@@ -41,15 +37,15 @@ Thanks [olehs](https://github.com/olehs)  for contributing
 
 ## Mounting / Montaje
 
-![alt text](http://pdacontroles.com/wp-content/uploads/2018/07/ARDUINO-NANO-MONTAJE.jpg "mounting)
+* Ard-Nano-OTA Board Mount / Montaje en Placa Ard-Nano-OTA.
+![alt text](http://pdacontroles.com/wp-content/uploads/2018/07/ARDUINO-NANO-MONTAJE.jpg "mounting")
 
-
+* Breadboard mounting / Montaje en protoboard
 ![alt text](http://pdacontroles.com/wp-content/uploads/2018/07/ARDUINO-NANO-Montaje2.jpg "mounting")
 
 
 # Documentation / Documentación 
 * Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004T with Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontrolen.com/meter-pzem-004-esp8266-platform-iot-ubidots/).
-
 
 * Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004T con Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontroles.com/medidor-pzem-004-esp8266-plataforma-iot-ubidots/).
 
