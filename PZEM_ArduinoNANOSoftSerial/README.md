@@ -1,20 +1,19 @@
 # Test Meter PZEM-004T with Arduino Nano
 
-Version 1.0   Date 26-06-2018   [PDAControl](http://pdacontrolen.com)
+Date 26-06-2018   [PDAControl](http://pdacontrolen.com)
 
-![alt text](http://pdacontroles.com/wp-content/uploads/2018/06/Basic-Ubidots-PZEM-004.png "ESP-Ubidots")
 
 ## Description / Descripción
 
-test Active power measurement or power consumption with Peacefair PZEM-004T Meter and Arduino Nano
+test Active power measurement or power consumption with Peacefair **PZEM-004T Meter and Arduino Nano**
 
 Contains 1 Files:
 
-Prueba de medición de potencia Activa o consumo eléctrico con Medidor PZEM-004T de Peacefair con Arduino Nano
+Prueba de medición de potencia Activa o consumo eléctrico con **Medidor PZEM-004T de Peacefair con Arduino Nano**
 
 Contiene 1 Archivo:
 
-* PZEM_ArduinoNANOSoftSerial.ino   :  Example Arduino Nano with Arduino IDE 
+* **PZEM_ArduinoNANOSoftSerial.ino**   :  Example Arduino Nano with Arduino IDE  
 
 
 ## Library / Librerias
@@ -34,13 +33,14 @@ Thanks [olehs](https://github.com/olehs)  for contributing
 * [Jumper Wires Female-Female / Cables puente Hembra-Hembra ](http://bit.ly/2L7HxOn) - Banggood
 * [Shield/PCB Arduino-OTA V1.0](http://pdacontrolen.com) - Optional
 
-
 ## Mounting / Montaje
 
 * Ard-Nano-OTA Board Mount / Montaje en Placa Ard-Nano-OTA.
+
 ![alt text](http://pdacontroles.com/wp-content/uploads/2018/07/ARDUINO-NANO-MONTAJE.jpg "mounting")
 
 * Breadboard mounting / Montaje en protoboard
+
 ![alt text](http://pdacontroles.com/wp-content/uploads/2018/07/ARDUINO-NANO-Montaje2.jpg "mounting")
 
 
