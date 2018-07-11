@@ -1,15 +1,15 @@
 # Test Meter PZEM-004T with Arduino Nano
 
-Date 26-06-2018   [PDAControl](http://pdacontrolen.com)
+Date 11-07-2018   [PDAControl](http://pdacontrolen.com)
 
 
 ## Description / Descripción
 
-test Active power measurement or power consumption with Peacefair **PZEM-004T Meter and Arduino Nano**
+test Active power measurement or power consumption with  **PZEM-004T Meter with Arduino Nano**
 
 Contains 1 Files:
 
-Prueba de medición de potencia Activa o consumo eléctrico con **Medidor PZEM-004T de Peacefair con Arduino Nano**
+Prueba de medición de potencia Activa o consumo eléctrico con **Medidor PZEM-004T con Arduino Nano**
 
 Contiene 1 Archivo:
 

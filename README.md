@@ -18,7 +18,7 @@ Contiene 5 Carpetas:
 * **PZEM_ArduinoUNO-ETHSoftSerial**:  Example Arduino UNO + Shield Ethernet W5100 with Arduino IDE
 * **PZEM_ESP32HwSerial**           :  Example ESP32 with Arduino IDE
 * **PZEM_ESP8266HwSerial**		   :  Example ESP8266 with Arduino IDE	
-* **ZEM_Python**                   :  Example Python for Computer or Raspberry Pi
+* **PZEM_Python**                   : Example Python for Computer or Raspberry Pi
 
 
 
