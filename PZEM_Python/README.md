@@ -35,7 +35,7 @@ Esta rutina muy bien estructurada, la encontré en el foro de [**Raspberrypi.org
 * [1 PZEM-004T](https://bit.ly/2HPyVJL) - Banggood
 * [1 Raspberry Pi 3 Model B + ](http://bit.ly/2NKRnaO) - Banggood
 * [1 FTDI TTL to USB Serial Converter](http://bit.ly/2ujroOI) - Banggood
-* [1 Power Supply 5V 2A](http://s.click.aliexpress.com/e/YNVrZjq) - Banggood
+* [1 Power Supply 5V 2A](http://bit.ly/2uh5jAi) - Banggood
 * [Jumper Wires Male-Female / Cables puente Macho-Hembra ](http://bit.ly/2KK4F9s)    - Banggood
 * [Jumper Wires Male-Male / Cables puente Macho-Macho](http://bit.ly/2N7MZSb)        - Banggood
 * [Jumper Wires Female-Female / Cables puente Hembra-Hembra ](http://bit.ly/2L7HxOn) - Banggood
@@ -50,9 +50,9 @@ Esta rutina muy bien estructurada, la encontré en el foro de [**Raspberrypi.org
 
 
 # Documentation / Documentación 
-* Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004T with Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontrolen.com/meter-pzem-004-esp8266-platform-iot-ubidots/).
+* Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004T with Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontrolen.com/meter-pzem-004t-with-arduino-esp32-esp8266-python-raspberry-pi/).
 
-* Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004T con Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontroles.com/medidor-pzem-004-esp8266-plataforma-iot-ubidots/).
+* Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004T con Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontroles.com/medidor-pzem-004t-con-arduino-esp32-esp8266-python-raspberry-pi/).
 
 # Donations / Donaciones 
 Collaborate this project and other projects in [PDAControl](http://pdacontrolen.com)  via [Paypal](https://www.paypal.me/pdacontrol). 

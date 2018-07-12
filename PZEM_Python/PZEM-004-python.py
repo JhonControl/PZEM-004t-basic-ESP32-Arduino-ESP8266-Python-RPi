@@ -3,6 +3,15 @@
 
 # Code by Massi from  https://www.raspberrypi.org/forums/viewtopic.php?t=124958#p923274
 
+
+# PDAControl
+# Documentation PDAControl English:
+# http://pdacontrolen.com/meter-pzem-004t-with-arduino-esp32-esp8266-python-raspberry-pi/
+# Documentacion PDAControl Español:
+# http://pdacontroles.com/medidor-pzem-004t-con-arduino-esp32-esp8266-python-raspberry-pi/
+# Video Tutorial : https://youtu.be/qt32YT_1oH8
+
+
 import serial
 import time
 import struct

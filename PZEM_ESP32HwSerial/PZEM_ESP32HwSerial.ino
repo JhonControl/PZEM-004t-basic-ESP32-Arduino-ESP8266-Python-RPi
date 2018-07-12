@@ -9,6 +9,16 @@
 PZEM004T pzem(&Serial2);
 IPAddress ip(192,168,1,1);
 
+/*
+ * PDAControl
+ * Documentation PDAControl English:
+ * http://pdacontrolen.com/meter-pzem-004t-with-arduino-esp32-esp8266-python-raspberry-pi/
+ * Documentacion PDAControl Español:
+ * http://pdacontroles.com/medidor-pzem-004t-con-arduino-esp32-esp8266-python-raspberry-pi/
+ * Video Tutorial : https://youtu.be/qt32YT_1oH8
+ * 
+ */
+
 void setup() {
    Serial.begin(115200);
    while (true) {

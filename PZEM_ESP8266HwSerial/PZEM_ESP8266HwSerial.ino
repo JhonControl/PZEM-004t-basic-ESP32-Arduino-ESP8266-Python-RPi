@@ -13,6 +13,16 @@
 */
 
 
+/*
+ * PDAControl
+ * Documentation PDAControl English:
+ * http://pdacontrolen.com/meter-pzem-004t-with-arduino-esp32-esp8266-python-raspberry-pi/
+ * Documentacion PDAControl Español:
+ * http://pdacontroles.com/medidor-pzem-004t-con-arduino-esp32-esp8266-python-raspberry-pi/
+ * Video Tutorial : https://youtu.be/qt32YT_1oH8
+ * 
+ */
+
 HardwareSerial hwserial(UART0);     // Use hwserial UART0 at pins GPIO1 (TX) and GPIO3 (RX)
 PZEM004T pzem(&hwserial);           // Attach PZEM to hwserial
 IPAddress ip(192,168,1,1);  

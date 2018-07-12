@@ -40,9 +40,9 @@ Thanks [olehs](https://github.com/olehs)  for contributing
 
 
 # Documentation / Documentación 
-* Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004T with Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontrolen.com/meter-pzem-004-esp8266-platform-iot-ubidots/).
+* Read Considerations, Recommendations and Suggestions complete documentation of the project in [Meter PZEM-004T with Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontrolen.com/meter-pzem-004t-with-arduino-esp32-esp8266-python-raspberry-pi/).
 
-* Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004T con Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontroles.com/medidor-pzem-004-esp8266-plataforma-iot-ubidots/).
+* Leer Consideraciones, Recomendaciones y sugerencias documentacion Completa del proyecto en  [Medidor PZEM-004T con Arduino ESP32 ESP8266 Python & Raspberry Pi](http://pdacontroles.com/medidor-pzem-004t-con-arduino-esp32-esp8266-python-raspberry-pi/).
 
 # Donations / Donaciones 
 Collaborate this project and other projects in [PDAControl](http://pdacontrolen.com)  via [Paypal](https://www.paypal.me/pdacontrol). 
